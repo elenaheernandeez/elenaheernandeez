@@ -8,7 +8,7 @@
 ---
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B76EFA.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/elena-muñoz-hernández)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B76EFA.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-muñoz-hernández)
 
 ---
 
