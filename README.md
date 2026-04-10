@@ -64,14 +64,14 @@
 ---
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=elenaheernandeez&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=elenaheernandeez&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=elenaheernandeez&theme=dracula&hide_border=false&include_all_commits=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=eledevs&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=eledevs&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eledevs&theme=dracula&hide_border=false&include_all_commits=false&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=elenaheernandeez&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=eledevs&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -81,9 +81,9 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=elenaheernandeez&limit=5&theme=dracula&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=eledevs&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=elenaheernandeez&icon=7&color=FF69B4)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=eledevs&icon=7&color=FF69B4)](https://visitcount.itsvg.in)
 
