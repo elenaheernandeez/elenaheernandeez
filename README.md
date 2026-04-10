@@ -13,7 +13,7 @@ I'm Elena, a passionate **SysAdmin**, current **AI & Big Data Master’s student
 <br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/eledevs](https://www.instagram.com/eledevs?igsh=MXNhdDkza3lrYXoxYQ%3D%3D&utm_source=qr)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B76EFA.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eledevs) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/eledevs?igsh=MXNhdDkza3lrYXoxYQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B76EFA.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eledevs) 
 
 ---
 
@@ -45,6 +45,9 @@ I'm Elena, a passionate **SysAdmin**, current **AI & Big Data Master’s student
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eledevs&theme=dracula&background=1a1b27&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" alt="Elena's Streak" />
 </p>
 
+---
+
+### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Quote" />
 </p>
