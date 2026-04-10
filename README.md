@@ -13,7 +13,7 @@ I'm Elena, a passionate **SysAdmin**, current **AI & Big Data Master’s student
 <br/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/eledevs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B76EFA.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eledevs) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://instagram.com/eledevs](https://www.instagram.com/eledevs?igsh=MXNhdDkza3lrYXoxYQ%3D%3D&utm_source=qr)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23B76EFA.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/eledevs) 
 
 ---
 
